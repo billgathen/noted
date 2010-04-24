@@ -1,0 +1,23 @@
+body {
+  font-family: "Lucida Grande", Lucida, Helvetica, Arial, sans-serif;
+  background: #FFF;
+  color: #333;
+  margin: 0px;
+  padding: 0px;
+}
+
+#header {
+  background: #C97E41;
+  margin: 0px;
+  padding: 20px;
+}
+#header h1 {
+  font-family: Inconsolata, Monaco, Courier, mono;
+  color: #FFF;
+  margin: 0px;
+}
+
+.item	{ padding-left: 10px; font-size: 12px;}
+.high	{ border-left: solid 5px red; }
+.medium	{ border-left: solid 5px yellow; }
+.low	{ border-left: solid 5px green; }

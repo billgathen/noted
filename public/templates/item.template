@@ -1,0 +1,4 @@
+<div class="item <%= item.priority %>">
+	<h2 class="item-title"><%= item.title %></h2>
+	<div class="item-body"><%= item.body %></div>
+</div>
